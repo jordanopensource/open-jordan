@@ -10,7 +10,7 @@ fa-icon: calendar
 
 <div class="container">
   <div class="row grey">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <div class="green-sqr">
         9:30 AM
       </div>
@@ -22,7 +22,7 @@ fa-icon: calendar
 
   <!-- 1st key note*/ -->
   <div class="row grey">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <div class="green-sqr">
         1:00 AM
       </div>
@@ -53,7 +53,7 @@ fa-icon: calendar
 
   <!-- 2nd key note*/ -->
   <div class="row grey">
-    <div class="col-md-3">
+    <div class="col-md-2">
       <div class="green-sqr">
         1:00 AM
       </div>
@@ -83,7 +83,7 @@ fa-icon: calendar
   </div>
 </div>
 
-<div class="container">
+<div class="container hidden-xs hidden-sm">
   <div class='row'>
     <div class='col-md-2 col-grey col-md-offset-3'>
       <h1>Main Hall</h1>
@@ -105,9 +105,10 @@ fa-icon: calendar
         1:00 AM
       </div>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-9 col-xs-8">
       <div class="row">
         <div class="col-md-4">
+          <span class="visible-xs visible-sm">Main Hall</span>
           <h2>Open Source Philosophy</h2>
           <div class="img-repeat"></div>
           <div class="media">
@@ -125,6 +126,7 @@ fa-icon: calendar
           </div>
         </div>
         <div class="col-md-4">
+          <span class="visible-xs visible-sm">Room I</span>
           <h2>Open Source Philosophy</h2>
           <div class="img-repeat"></div>
           <div class="media">
@@ -142,6 +144,7 @@ fa-icon: calendar
           </div>
         </div>
         <div class="col-md-4">
+          <span class="visible-xs visible-sm">Room II</span>
           <h2>Open Source Philosophy</h2>
           <div class="img-repeat"></div>
           <div class="media">

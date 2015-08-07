@@ -50,3 +50,11 @@
 form input, #navigation-table{
   width: 100% !important;
 }
+.green-sqr{
+  color: white;
+  background-color: #73d216;
+  font-weight: bold;
+  font-size: 25px;
+  min-height: 120px;
+  text-align: center;
+}
