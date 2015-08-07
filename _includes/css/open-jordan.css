@@ -47,3 +47,6 @@
 .fa-circle{
   color: grey !important;
 }
+form input, #navigation-table{
+  width: 100% !important;
+}
