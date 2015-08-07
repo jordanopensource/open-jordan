@@ -1,7 +1,7 @@
 ---
 title: "Register Now"
-bg: white     #defined in _config.yml, can use html color like '#010101'
-color: black  #text color
+bg: josa     #defined in _config.yml, can use html color like '#010101'
+color: white #text color
 style: left
 fa-icon: key
 ---
