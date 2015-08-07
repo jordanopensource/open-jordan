@@ -1,5 +1,5 @@
 .about{
-  background-image: url('/img/circles.png');
+  background-image: url('{{ site.baseurl }}/img/circles.png');
   background-color: #73d216;
   background-repeat: no-repeat;
   background-position: right top;
@@ -31,7 +31,7 @@
 }
 
 .img-repeat {
-  background-image: url('/img/dots.png');
+  background-image: url('{{ site.baseurl }}/img/dots.png');
   background-repeat: repeat-x;
   background-position: left top;
   height: 20px;

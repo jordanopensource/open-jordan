@@ -37,7 +37,7 @@ fa-icon: calendar
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="/img/avatar.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
             </a>
           </div>
           <div class="media-body">
@@ -68,7 +68,7 @@ fa-icon: calendar
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="/img/avatar.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
             </a>
           </div>
           <div class="media-body">
@@ -116,7 +116,7 @@ fa-icon: calendar
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
               </a>
             </div>
             <div class="media-body">
@@ -131,7 +131,7 @@ fa-icon: calendar
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
               </a>
             </div>
             <div class="media-body">
@@ -146,7 +146,7 @@ fa-icon: calendar
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
               </a>
             </div>
             <div class="media-body">
