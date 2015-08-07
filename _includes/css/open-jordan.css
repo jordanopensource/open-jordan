@@ -1,0 +1,49 @@
+.about{
+  background-image: url('/img/circles.png');
+  background-color: #73d216;
+  background-repeat: no-repeat;
+  background-position: right top;
+  text-align: center;
+}
+.about h1 {
+    color: white;
+    font-weight: bold;
+}
+
+.btn-white {
+  color: #ffffff !important;
+}
+
+.col-grey {
+  background-color: #ccc;
+  color: white;
+  max-height: 238px !important;
+}
+
+.grey {
+  background-color: #ccc;
+  color: white;
+}
+.col-grey p {
+  font-size: 18px;
+  margin: 15px;
+  line-height: 1.33;
+}
+
+.img-repeat {
+  background-image: url('/img/dots.png');
+  background-repeat: repeat-x;
+  background-position: left top;
+  height: 20px;
+}
+.media-object {
+  max-width: inherit !important;
+}
+.media-body h4{
+  padding: 0;
+  text-align: left;
+  margin: 0;
+}
+.fa-circle{
+  color: grey !important;
+}
