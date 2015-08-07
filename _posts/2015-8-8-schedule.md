@@ -107,12 +107,9 @@ fa-icon: calendar
     </div>
     <div class="col-md-9">
       <div class="row">
-        <h2>Openness and Sharing in Our Culture</h2>
-        <div class="img-repeat"></div>
-      </div>
-
-      <div class="row">
         <div class="col-md-4">
+          <h2>Open Source Philosophy</h2>
+          <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
@@ -128,6 +125,8 @@ fa-icon: calendar
           </div>
         </div>
         <div class="col-md-4">
+          <h2>Open Source Philosophy</h2>
+          <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
@@ -143,6 +142,8 @@ fa-icon: calendar
           </div>
         </div>
         <div class="col-md-4">
+          <h2>Open Source Philosophy</h2>
+          <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
