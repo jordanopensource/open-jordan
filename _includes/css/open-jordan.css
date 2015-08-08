@@ -79,47 +79,49 @@ form input, #navigation-table{
 
 @media (min-width: 768px) {
   .navbar-fixed-top {
-      padding: 25px 0;
-      transition: padding 0.3s ease 0s;
+    padding: 25px 0;
+    transition: padding 0.3s ease 0s;
   }
   .navbar-fixed-top .navbar-brand {
-      font-size: 2em;
-      transition: all 0.3s ease 0s;
+    font-size: 2em;
+    transition: all 0.3s ease 0s;
   }
   .navbar-fixed-top.navbar-shrink {
-      padding: 10px 0;
+    padding: 10px 0;
   }
   .navbar-fixed-top.navbar-shrink .navbar-brand {
-      display: block;
-      font-size: 1.5em;
+    display: block;
+    font-size: 1.5em;
   }
 }
 .navbar {
-    font-weight: 700;
-    text-transform: uppercase;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 .navbar a:focus {
-    outline: medium none;
+  outline: medium none;
 }
 .navbar .navbar-nav {
-    letter-spacing: 1px;
+  letter-spacing: 1px;
 }
 .navbar .navbar-nav li a:focus {
-    outline: medium none;
+  outline: medium none;
 }
 .navbar .navbar-brand {
-    display: none;
+  display: none;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 .navbar-default, .navbar-inverse {
-    border: medium none;
+  border: medium none;
 }
 .navbar-default {
-    background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .navbar-default.navbar-shrink {
-    background-color: #5AA411;
+  background-color: #5AA411;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-nav > li > a:hover {
-    color: #FFFFFF;
+  color: #FFFFFF;
 }
