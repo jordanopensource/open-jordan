@@ -15,7 +15,9 @@ style: left
       </div>
     </div>
     <div class="col-md-9">
-      <h2 class="pull-left">Registration</h2>
+      <div class="session-container">
+        <h2 class="session-title">Registration</h2>
+      </div>
     </div>
   </div>
 

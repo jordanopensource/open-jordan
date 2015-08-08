@@ -42,8 +42,8 @@ h1 {
 }
 
 .grey {
-  background-color: #ccc;
-  color: white;
+    background-color: #EDEDEB;
+    color: #2E3436;
 }
 .col-grey p {
   font-size: 18px;
@@ -72,12 +72,15 @@ form input, #navigation-table{
   width: 100% !important;
 }
 .green-sqr{
-  color: white;
-  background-color: #89d216;
-  font-weight: bold;
-  font-size: 25px;
-  min-height: 120px;
-  text-align: center;
+    background-color: #89d216;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    font-weight: 500;
+    height: 3.5em;
+    line-height: 1em;
+    margin: 0.5em;
+    padding: 1em 0.8em;
+    text-align: center;
 }
 .white{ color: #ffffff; }
 
