@@ -221,3 +221,7 @@ form input, #navigation-table{
     line-height: 1.2em;
     margin: 1em 0;
 }
+
+#focus-points {
+    margin: 2em 0 1em;
+}
