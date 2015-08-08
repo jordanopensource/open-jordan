@@ -8,9 +8,9 @@
   <title>{{ site.title }}</title>
 	<meta name="keywords" content="{{ site.keywords }}">
 	<meta name="description" content="{{ site.description }}">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="combo.css">
   <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/2e353f1b-be4f-40ce-a122-a7102c026294.css"/>
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
@@ -50,8 +50,7 @@
 
     <div class="about section">
       <img class="logo" src="{{ site.baseurl }}/img/logo.png">
-      <h1>SATURDAY, 15-8-2015</h1>
-      <h1>@ RAS AL AYN HANGAR, AMMAN</h1>
+      <h2>SATURDAY, 15-8-2015<br/>@ RAS AL AYN HANGAR, AMMAN</h2>
     </div>
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
