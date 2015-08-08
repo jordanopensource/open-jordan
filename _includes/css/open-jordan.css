@@ -12,8 +12,9 @@
   text-align: center;
 }
 .about h2 {
-    color: white;
-    font-weight: 500;
+  color: #FFFFFF;
+  font-weight: 300;
+  padding-top: 20px;
 }
 
 .about .logo {
