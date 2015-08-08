@@ -19,6 +19,8 @@
 
 .about .logo {
   max-width: 500px !important;
+  padding: 1em;
+  width: 100%;
 }
 
 .about .section {
