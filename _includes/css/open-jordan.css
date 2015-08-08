@@ -159,7 +159,7 @@ form input, #navigation-table{
     text-decoration: none;
 }
 #about .btn-outline a {
-    color: #FFFFFF;
+    color: #FFFFFF !important;
 }
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     background: none repeat scroll 0 0 #FFFFFF;
@@ -167,7 +167,7 @@ form input, #navigation-table{
     color: #73D216;
 }
 #about .btn-outline:hover a, #about .btn-outline:focus a, #about .btn-outline:active a, #about .btn-outline.active a {
-    color: #73D216;
+    color: #73D216 !important;
 }
 .btn-group-lg > .btn, .btn-lg {
     padding: 18px 27px;
