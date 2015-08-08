@@ -38,6 +38,10 @@ h1 {
     color: #111111;
 }
 
+#about a {
+  color: #fff;
+}
+
 .btn-white {
   color: #ffffff !important;
 }
@@ -163,9 +167,13 @@ form input, #navigation-table{
     font-size: 20px;
     margin-top: 15px;
     transition: all 0.3s ease-in-out 0s;
+    text-decoration: none;
 }
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     background: none repeat scroll 0 0 #FFFFFF;
     border: 2px solid #73D216;
     color: #73D216;
+}
+.btn-group-lg > .btn, .btn-lg {
+    padding: 18px 27px;
 }
