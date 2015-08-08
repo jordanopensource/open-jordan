@@ -1,5 +1,6 @@
-.body {
+#main {
   font: 14px/21px "DIN Next Arabic W23","HelveticaNeue-Light", Arial, sans-serif;
+  color: #2e3436;
 }
 
 .about{
@@ -7,11 +8,16 @@
   background-color: #73d216;
   background-repeat: no-repeat;
   background-position: right top;
+  background-size: 50%;
   text-align: center;
 }
 .about h1 {
     color: white;
     font-weight: bold;
+}
+
+.about .logo {
+  max-width: 500px;
 }
 
 .btn-white {
