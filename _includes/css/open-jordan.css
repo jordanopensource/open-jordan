@@ -225,3 +225,11 @@ form input, #navigation-table{
 #focus-points {
     margin: 2em 0 1em;
 }
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #FFFFFF;
+}
