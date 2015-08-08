@@ -60,11 +60,19 @@ h1 {
 .media-object {
   max-width: inherit !important;
 }
-.media-body h4{
-  padding: 0;
-  text-align: left;
-  margin: 0;
+.media-body h4 {
+    font-size: 1.4em;
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    text-transform: uppercase;
 }
+
+.media-object.img-circle {
+    width: 70px;
+}
+
 .fa-circle{
   color: grey !important;
 }
@@ -238,11 +246,11 @@ form input, #navigation-table{
 }
 
 .session-container {
-    padding: 1em 0.8em;
+    padding: 2em 0.8em 0;
     text-align: left;
 }
 
 .session-title {
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: 300;
 }
