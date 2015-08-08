@@ -25,15 +25,15 @@ style: left
   <div class="row grey">
     <div class="col-md-2">
       <div class="green-sqr">
-        1:00 AM
+        10:00 AM
       </div>
     </div>
     <div class="col-md-9">
       <div class="row">
         <div class="session-container">
           <div class="session-title">Openness and Sharing in Our Culture</div>
+          <div class="img-repeat"></div>
         </div>
-        <div class="img-repeat"></div>
       </div>
 
       <div class="row">
@@ -44,10 +44,8 @@ style: left
             </a>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">Sabri Al Saber</h4>
-            Lorem Sabri
-            Lorem Sabri
-            Lorem Sabri
+            <h4 class="media-heading">Sabri<br>Al Saber</h4>
+            Speaker
           </div>
         </div>
       </div>
