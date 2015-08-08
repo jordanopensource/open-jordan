@@ -11,7 +11,7 @@ h1 {
 
 .about{
   background-image: url('{{ site.baseurl }}/img/circles.png');
-  background-color: #73d216;
+  background-color: #89d216;
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 50%;
@@ -73,7 +73,7 @@ form input, #navigation-table{
 }
 .green-sqr{
   color: white;
-  background-color: #73d216;
+  background-color: #89d216;
   font-weight: bold;
   font-size: 25px;
   min-height: 120px;
@@ -150,7 +150,7 @@ form input, #navigation-table{
 }
 
 .btn-outline {
-    background: none repeat scroll 0 0 #73D216;
+    background: none repeat scroll 0 0 #89d216;
     border: 2px solid #FFFFFF;
     color: #FFFFFF;
     font-size: 20px;
@@ -163,11 +163,11 @@ form input, #navigation-table{
 }
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     background: none repeat scroll 0 0 #FFFFFF;
-    border: 2px solid #73D216;
-    color: #73D216;
+    border: 2px solid #89d216;
+    color: #89d216;
 }
 #about a.btn-outline:hover, #about a.btn-outline:focus, #about a.btn-outline:active, #about a.btn-outline.active {
-    color: #73D216 !important;
+    color: #89d216 !important;
 }
 .btn-group-lg > .btn, .btn-lg {
     padding: 18px 27px;
@@ -183,7 +183,7 @@ form input, #navigation-table{
     position: relative;
 }
 .focus .bubble-container {
-    background-color: #73D216;
+    background-color: #89d216;
     color: #FFFFFF;
     float: right;
     height: 65px;
@@ -196,7 +196,7 @@ form input, #navigation-table{
     line-height: 0.8em;
 }
 .focus .triangle {
-    border-color: #73D216 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    border-color: #89d216 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
     border-style: solid;
     border-width: 20px 20px 0 0;
     height: 0;
