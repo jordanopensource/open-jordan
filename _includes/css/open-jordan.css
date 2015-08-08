@@ -158,7 +158,7 @@ form input, #navigation-table{
     transition: all 0.3s ease-in-out 0s;
     text-decoration: none;
 }
-.btn-outline a {
+#about .btn-outline a {
     color: #FFFFFF;
 }
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
@@ -166,7 +166,7 @@ form input, #navigation-table{
     border: 2px solid #73D216;
     color: #73D216;
 }
-.btn-outline:hover a, .btn-outline:focus a, .btn-outline:active a, .btn-outline.active a {
+#about .btn-outline:hover a, #about .btn-outline:focus a, #about .btn-outline:active a, #about .btn-outline.active a {
     color: #73D216;
 }
 .btn-group-lg > .btn, .btn-lg {
