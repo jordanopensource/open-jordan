@@ -155,3 +155,17 @@ form input, #navigation-table{
   max-width: 830px;
   padding: 2em 0;
 }
+
+.btn-outline {
+    background: none repeat scroll 0 0 #73D216;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: 15px;
+    transition: all 0.3s ease-in-out 0s;
+}
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #73D216;
+    color: #73D216;
+}
