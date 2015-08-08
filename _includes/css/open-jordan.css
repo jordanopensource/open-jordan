@@ -3,6 +3,12 @@
   color: #2e3436;
 }
 
+h1 {
+    font-size: 46px;
+    line-height: 50px;
+    margin-bottom: 14px;
+}
+
 .about{
   background-image: url('{{ site.baseurl }}/img/circles.png');
   background-color: #73d216;
