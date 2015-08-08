@@ -135,3 +135,11 @@ form input, #navigation-table{
 .section {
   padding: 90px 0;
 }
+
+.description {
+  font-size: 1.6em;
+  line-height: 1.2em;
+  margin: 0 auto;
+  max-width: 830px;
+  padding: 2em 0;
+}
