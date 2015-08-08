@@ -1,3 +1,7 @@
+.body {
+  font: 14px/21px "DIN Next Arabic W23","HelveticaNeue-Light", Arial, sans-serif;
+}
+
 .about{
   background-image: url('{{ site.baseurl }}/img/circles.png');
   background-color: #73d216;
