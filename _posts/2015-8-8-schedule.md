@@ -16,7 +16,7 @@ style: left
     </div>
     <div class="col-md-9">
       <div class="session-container">
-        <h2 class="session-title">Registration</h2>
+        <div class="session-title">Registration</div>
       </div>
     </div>
   </div>
@@ -30,7 +30,9 @@ style: left
     </div>
     <div class="col-md-9">
       <div class="row">
-        <h2>Openness and Sharing in Our Culture</h2>
+        <div class="session-container">
+          <div class="session-title">Openness and Sharing in Our Culture</div>
+        </div>
         <div class="img-repeat"></div>
       </div>
 
