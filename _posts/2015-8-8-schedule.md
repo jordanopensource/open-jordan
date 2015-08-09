@@ -357,11 +357,21 @@ style: left
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/doudin.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/atiani.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Ola<br>Doudin</h4>
+              <h4 class="media-heading">Samer<br>Atiani</h4>
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/salameh.png">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Ghaith<br>Salameh</h4>
             </div>
           </div>
         </div>
@@ -374,7 +384,7 @@ style: left
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/alkhudeir.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/khudeir.png">
               </a>
             </div>
             <div class="media-body">
