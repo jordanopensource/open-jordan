@@ -52,10 +52,9 @@ h1 {
 }
 
 .img-repeat {
-  background-image: url('{{ site.baseurl }}/img/dots.png');
-  background-repeat: repeat-x;
-  background-position: left top;
-  height: 20px;
+  border-bottom: 2px dotted #AAAAAA;
+  height: 0.5em;
+  margin: 0.5em 0;
 }
 .media-object {
   max-width: inherit !important;
