@@ -61,13 +61,18 @@ h1 {
     padding: 0 2em;
 }
 
+.media-body, .media-left, .media-right {
+    vertical-align: middle;
+}
+
 .media-object {
   max-width: inherit !important;
 }
 .media-body h4 {
-    font-size: 1.4em;
+    font-size: 1.3em;
+    font-weight: 400;
     line-height: 1em;
-    margin: 0;
+    margin: -0.3em 0 0;
     padding: 0;
     text-align: left;
     text-transform: uppercase;
@@ -269,6 +274,7 @@ form input, #navigation-table{
 }
 
 .session-title {
-    font-size: 1.7em;
+    font-size: 1.6em;
     font-weight: 300;
+    line-height: 1.1em;
 }
