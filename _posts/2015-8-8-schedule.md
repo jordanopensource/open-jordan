@@ -194,7 +194,7 @@ style: left
         1:00 AM
       </div>
     </div>
-    <div class="col-md-9 col-xs-8">
+    <div class="col-md-9 col-xs-12">
       <div class="row">
         <div class="col-md-4">
           <span class="visible-xs visible-sm">Main Hall</span>
