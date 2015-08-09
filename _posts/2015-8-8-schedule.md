@@ -18,6 +18,7 @@ style: left
       <div class="session-container">
         <div class="session-title">Registration</div>
       </div>
+      <div class="row"></div>
     </div>
   </div>
 
@@ -91,6 +92,7 @@ style: left
       <div class="session-container">
         <div class="session-title">Break</div>
       </div>
+      <div class="row"></div>
     </div>
   </div>
 
@@ -164,6 +166,7 @@ style: left
       <div class="session-container">
         <div class="session-title">Break</div>
       </div>
+      <div class="row"></div>
     </div>
   </div>
 
