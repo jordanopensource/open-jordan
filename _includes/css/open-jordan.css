@@ -318,5 +318,21 @@ h3.venue {
 .ss-q-help.ss-secondary-text {
     font-size: 1.2em;
     font-weight: 200;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
+}
+
+.required-message {
+    display: none;
+}
+
+.ss-q-short, input[type="text"], input[type="password"], input[type="email"], textarea, select {
+    max-width: 100%;
+    outline: medium none;
+    padding: 6px 15px 12px;
+    font-size: 1.2em;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 0 none;
+    border-radius: 10px;
+    color: #777777;
+    display: block;
 }
