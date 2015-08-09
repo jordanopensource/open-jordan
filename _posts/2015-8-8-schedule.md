@@ -175,13 +175,13 @@ style: left
 <div class="container hidden-xs hidden-sm">
   <div class='row'>
     <div class='col-md-2 col-grey col-md-offset-3'>
-      <h3>Main Hall</h3>
+      <h3 class="venue">Main Hall</h3>
     </div>
     <div class='col-md-2 col-grey col-md-offset-1'>
-        <h3>Room 1</h3>
+        <h3 class="venue">Room 1</h3>
     </div>
     <div class='col-md-2 col-grey col-md-offset-1'>
-      <h3>Room 2</h3>
+      <h3 class="venue">Room 2</h3>
     </div>
 
   </div>
@@ -197,7 +197,7 @@ style: left
     <div class="col-md-9 col-xs-12">
       <div class="row">
         <div class="col-md-4">
-          <span class="visible-xs visible-sm">Main Hall</span>
+          <span class="visible-xs visible-sm venue">Main Hall</span>
           <div class="session-container">
             <div class="session-title">Should Radio Frequencies be Open to the Public?</div>
           </div>
@@ -214,7 +214,7 @@ style: left
           </div>
         </div>
         <div class="col-md-4">
-          <span class="visible-xs visible-sm">Room 1</span>
+          <span class="visible-xs visible-sm venue">Room 1</span>
           <div class="session-container">
             <div class="session-title">Jordan Charter for Digital Rights</div>
           </div>
@@ -231,7 +231,7 @@ style: left
           </div>
         </div>
         <div class="col-md-4">
-          <span class="visible-xs visible-sm">Room 2</span>
+          <span class="visible-xs visible-sm venue">Room 2</span>
           <div class="session-container">
             <div class="session-title">From Access to Information to Transparency for Eveyone: Open Government in Jordan</div>
           </div>

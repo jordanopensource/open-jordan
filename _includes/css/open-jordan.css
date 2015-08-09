@@ -278,3 +278,20 @@ form input, #navigation-table{
     font-weight: 300;
     line-height: 1.1em;
 }
+
+.venue {
+    background-color: #666666;
+    color: #FFFFFF;
+    font-size: 1.3em;
+    margin: 2em 0.6em 0.3em;
+    padding: 0.3em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3.venue {
+    font-size: 1.7em;
+    font-weight: 500;
+    line-height: 1.1em;
+    width: 100%;
+}
