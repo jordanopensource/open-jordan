@@ -364,5 +364,5 @@ ul.ss-choices {
 }
 
 form input[type="checkbox"] {
-    width: auto;
+    width: auto !important;
 }
