@@ -295,3 +295,7 @@ h3.venue {
     line-height: 1.1em;
     width: 100%;
 }
+
+#contact .text-center > a {
+    display: inline-block;
+}
