@@ -175,13 +175,13 @@ style: left
 <div class="container hidden-xs hidden-sm">
   <div class='row'>
     <div class='col-md-2 col-grey col-md-offset-3'>
-      <h1>Main Hall</h1>
+      <h3>Main Hall</h3>
     </div>
     <div class='col-md-2 col-grey col-md-offset-1'>
-        <h1>Room I</h1>
+        <h3>Room 1</h3>
     </div>
     <div class='col-md-2 col-grey col-md-offset-1'>
-      <h1>Room II</h1>
+      <h3>Room 2</h3>
     </div>
 
   </div>
@@ -198,55 +198,52 @@ style: left
       <div class="row">
         <div class="col-md-4">
           <span class="visible-xs visible-sm">Main Hall</span>
-          <h2>Open Source Philosophy</h2>
+          <div class="session-container">
+            <div class="session-title">Should Radio Frequencies be Open to the Public?</div>
+          </div>
           <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/kuttab.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Sabri Al Saber</h4>
-              Lorem Sabri
-              Lorem Sabri
-              Lorem Sabri
+              <h4 class="media-heading">Daoud<br>Kuttab</h4>
             </div>
           </div>
         </div>
         <div class="col-md-4">
-          <span class="visible-xs visible-sm">Room I</span>
-          <h2>Open Source Philosophy</h2>
+          <span class="visible-xs visible-sm">Room 1</span>
+          <div class="session-container">
+            <div class="session-title">Jordan Charter for Digital Rights</div>
+          </div>
           <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/mahasneh.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Sabri Al Saber</h4>
-              Lorem Sabri
-              Lorem Sabri
-              Lorem Sabri
+              <h4 class="media-heading">Issa<br>Mahasneh</h4>
             </div>
           </div>
         </div>
         <div class="col-md-4">
-          <span class="visible-xs visible-sm">Room II</span>
-          <h2>Open Source Philosophy</h2>
+          <span class="visible-xs visible-sm">Room 2</span>
+          <div class="session-container">
+            <div class="session-title">From Access to Information to Transparency for Eveyone: Open Government in Jordan</div>
+          </div>
           <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/avatar.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/shawabkeh.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Sabri Al Saber</h4>
-              Lorem Sabri
-              Lorem Sabri
-              Lorem Sabri
+              <h4 class="media-heading">Musab<br>Shawabkeh</h4>
             </div>
           </div>
         </div>
