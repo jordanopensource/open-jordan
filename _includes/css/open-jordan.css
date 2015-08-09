@@ -151,9 +151,9 @@ form input[type=text], #navigation-table{
   color: #FFFFFF;
   text-decoration: none;
   background-image: url("img/logo-small.png");
-  background-position: left center;
+  background-position: 20px center;
   background-repeat: no-repeat;
-  padding-left: 35px;
+  padding-left: 50px;
 }
 .navbar-default, .navbar-inverse {
   border: medium none;

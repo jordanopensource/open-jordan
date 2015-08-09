@@ -33,7 +33,7 @@
 
 /* ----- Mobile (Portrait) ----- */
   @media only screen and (max-width: 767px) {
-    .container                { width:  96%; }
+    .container                { width:  91%; }
     .container .column        { margin:  1%; }
 
     .container .small.column { width: 48%; }
@@ -45,7 +45,7 @@
 
 /* ----- Mobile (Landscape) -- 480px ----- */
   @media only screen and (min-width: 480px) and (max-width: 767px) {
-    .container                { width:  92%; }
+    .container                { width:  91%; }
     .container .column        { margin:  2%; }
 
     .container .small.column { width: 46%; }
