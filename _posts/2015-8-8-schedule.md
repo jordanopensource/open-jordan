@@ -233,7 +233,7 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Room 2</span>
           <div class="session-container">
-            <div class="session-title">From Access to Information to Transparency for Eveyone: Open Government in Jordan</div>
+            <div class="session-title">From Access to Information to Transparency for Everyone: Open Government in Jordan</div>
           </div>
           <div class="img-repeat"></div>
           <div class="media">
