@@ -39,7 +39,7 @@ style: left
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="{{ site.baseurl }}/img/mahasneh.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/mahasneh.png">
             </a>
           </div>
           <div class="media-body">
@@ -69,7 +69,7 @@ style: left
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="{{ site.baseurl }}/img/zuraikat.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/zuraikat.png">
             </a>
           </div>
           <div class="media-body">
@@ -112,7 +112,7 @@ style: left
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="{{ site.baseurl }}/img/issa.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/issa.png">
             </a>
           </div>
           <div class="media-body">
@@ -142,7 +142,7 @@ style: left
         <div class="media">
           <div class="media-left">
             <a href="#">
-              <img class="media-object img-circle" src="{{ site.baseurl }}/img/tarakiyee.png">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/tarakiyee.png">
             </a>
           </div>
           <div class="media-body">
