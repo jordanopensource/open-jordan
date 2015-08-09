@@ -362,3 +362,11 @@ label {
 ul.ss-choices {
     padding: 2em 1em;
 }
+
+.jfk-button.jfk-button-action.btn.btn-outline.green {
+    padding: 10px 27px 13px;
+}
+
+.ss-item.ss-navigate {
+    text-align: center;
+}
