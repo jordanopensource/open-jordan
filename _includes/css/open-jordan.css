@@ -336,3 +336,28 @@ h3.venue {
     color: #777777;
     display: block;
 }
+
+.ss-required-asterisk {
+    color: #00AA00;
+    display: inline;
+    font-size: 1.7em;
+}
+
+label {
+    display: inline;
+}
+
+.ss-choice-item-control.goog-inline-block {
+    display: inline;
+    float: left;
+    margin-right: 1em;
+}
+.ss-choice-label {
+    color: #FFFFFF;
+    display: inline;
+    font-size: 1.4em;
+}
+
+ul.ss-choices {
+    padding: 2em 1em;
+}
