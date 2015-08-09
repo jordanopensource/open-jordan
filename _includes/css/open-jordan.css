@@ -362,3 +362,7 @@ label {
 ul.ss-choices {
     padding: 2em 1em;
 }
+
+form input[type="checkbox"] {
+    width: auto;
+}
