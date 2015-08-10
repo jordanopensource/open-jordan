@@ -52,10 +52,6 @@ h2 {
   color: #ffffff !important;
 }
 
-.col-grey {
-  max-height: 238px !important;
-}
-
 .grey {
     background-color: #EDEDEB;
     color: #2E3436;
@@ -384,4 +380,24 @@ ul.ss-choices {
 
 .ss-item.ss-navigate {
     text-align: center;
+}
+
+@media (min-width: @screen-sm-min) {
+    .focus .box {
+        height: 15em;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+    .focus .box {
+        height: 13em;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+    .focus .box {
+        height: 11em;
+    }
 }
