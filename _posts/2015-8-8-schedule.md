@@ -376,7 +376,7 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Room 1</span>
           <div class="session-container">
-            <div class="session-title">Collaborative Storytelling</div>
+            <div class="session-title">Collaborative Storytelling using online tools</div>
           </div>
           <div class="img-repeat"></div>
           <div class="media">
