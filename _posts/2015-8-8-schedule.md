@@ -233,21 +233,20 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Room 2</span>
           <div class="session-container">
-            <div class="session-title">From Access to Information to Transparency for Everyone: Open Government in Jordan</div>
+            <div class="session-title">Visualizing Open Data</div>
           </div>
           <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/shawabkeh.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/jaffal.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Musab<br>Shawabkeh</h4>
+              <h4 class="media-heading">Nada<br>Jaffal</h4>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
@@ -300,21 +299,20 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Room 2</span>
           <div class="session-container">
-            <div class="session-title">Visualizing Open Data</div>
+            <div class="session-title">From Access to Information to Transparency for Everyone: Open Government in Jordan</div>
           </div>
           <div class="img-repeat"></div>
           <div class="media">
             <div class="media-left">
               <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/jaffal.png">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/shawabkeh.png">
               </a>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Nada<br>Jaffal</h4>
+              <h4 class="media-heading">Musab<br>Shawabkeh</h4>
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
