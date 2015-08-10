@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Open Jordan"
+title:       "OpenJordan"
 keywords:    "jordan, open jordan, open source, jordan open source association"
-description: "Static website for Open Jordan event"
+description: "A Made-in-Jordan conversation about thinking, doing and beng OPEN: The spirit of openess is out there; from open source software and hardware to the open internet, from open content to open data, we can make this country more open, join us and let's start the mission: #OpenJordan"
 source_link: "https://github.com/aqabawe/open-jordan"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
