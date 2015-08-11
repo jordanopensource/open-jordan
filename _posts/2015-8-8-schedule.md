@@ -32,7 +32,7 @@ style: left
     <div class="col-md-9">
       <div class="row">
         <div class="session-container">
-          <div class="session-title">Let's Open Everything - An Short Introduction to What We Talk About</div>
+          <div class="session-title">Opening remarks</div>
           <div class="img-repeat"></div>
         </div>
       </div>
@@ -376,7 +376,7 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Room 1</span>
           <div class="session-container">
-            <div class="session-title">Collaborative Authoring</div>
+            <div class="session-title">Collaborative Storytelling using online tools</div>
           </div>
           <div class="img-repeat"></div>
           <div class="media">
