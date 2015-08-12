@@ -56,7 +56,7 @@ style: left
   <div class="row grey">
     <div class="col-md-2">
       <div class="green-sqr">
-        11:00 AM
+        10:45 AM
       </div>
     </div>
     <div class="col-md-9">
@@ -82,25 +82,11 @@ style: left
     </div>
   </div>
 
-  <div class="row grey">
-    <div class="col-md-2">
-      <div class="green-sqr">
-        11:45 AM
-      </div>
-    </div>
-    <div class="col-md-9">
-      <div class="session-container">
-        <div class="session-title">Break</div>
-      </div>
-      <div class="row"></div>
-    </div>
-  </div>
-
   <!-- 3rd key note*/ -->
   <div class="row grey">
     <div class="col-md-2">
       <div class="green-sqr">
-        12:15 PM
+        11:30 AM
       </div>
     </div>
     <div class="col-md-9">
@@ -125,12 +111,27 @@ style: left
       </div>
     </div>
   </div>
+  
+  <!-- 1st coffee break -->
+  <div class="row grey">
+    <div class="col-md-2">
+      <div class="green-sqr">
+        12:15 PM
+      </div>
+    </div>
+    <div class="col-md-9">
+      <div class="session-container">
+        <div class="session-title">Break</div>
+      </div>
+      <div class="row"></div>
+    </div>
+  </div>  
 
   <!-- 4th key note*/ -->
   <div class="row grey">
     <div class="col-md-2">
       <div class="green-sqr">
-        1:00 PM
+        12:30 PM
       </div>
     </div>
     <div class="col-md-9">
@@ -155,6 +156,38 @@ style: left
       </div>
     </div>
   </div>
+
+
+  <!-- 4th key note*/ -->
+  <div class="row grey">
+    <div class="col-md-2">
+      <div class="green-sqr">
+         1:15 PM
+      </div>
+    </div>
+    <div class="col-md-9">
+      <div class="row">
+        <div class="session-container">
+          <div class="session-title">Deregulation and how it can boost Jordan</div>
+          <div class="img-repeat"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="media">
+          <div class="media-left">
+            <a href="#">
+              <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/fouad.jpg">
+            </a>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Fouad<br>Jeryes</h4>
+            Speaker
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
   <div class="row grey">
     <div class="col-md-2">
