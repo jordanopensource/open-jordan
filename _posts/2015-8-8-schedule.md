@@ -16,7 +16,7 @@ style: left
     </div>
     <div class="col-md-9">
       <div class="session-container">
-        <div class="session-title">Registration</div>
+        <div class="session-title">Door Opens: Registration and Networking</div>
       </div>
       <div class="row"></div>
     </div>
