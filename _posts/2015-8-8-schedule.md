@@ -298,18 +298,7 @@ style: left
         <div class="col-md-4">
           <span class="visible-xs visible-sm venue">Main Hall</span>
           <div class="session-container">
-            <div class="session-title">Open Currency & BitCoin</div>
-          </div>
-          <div class="img-repeat"></div>
-          <div class="media">
-            <div class="media-left">
-              <a href="#">
-                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/doudin.png">
-              </a>
-            </div>
-            <div class="media-body">
-              <h4 class="media-heading">Ola<br>Doudin</h4>
-            </div>
+            <div class="session-title">Break</div>
           </div>
         </div>
         <div class="col-md-4">
