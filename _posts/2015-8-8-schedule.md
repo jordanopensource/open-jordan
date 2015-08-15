@@ -377,6 +377,16 @@ style: left
           <div class="media">
             <div class="media-left">
               <a href="#">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/dalia.jpg">
+              </a>
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">Dalia Khasawneh <br>(Makan House)</h4>
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
                 <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/atiani.png">
               </a>
             </div>
